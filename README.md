@@ -47,15 +47,3 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
 </p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ganeshpawar243&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshpawar243&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshpawar243&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
-</p>
